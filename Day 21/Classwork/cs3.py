@@ -1,0 +1,1 @@
+print("prive : 87$")
